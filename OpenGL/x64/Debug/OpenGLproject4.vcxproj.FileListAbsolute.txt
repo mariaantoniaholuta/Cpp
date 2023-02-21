@@ -1,0 +1,14 @@
+H:\Poli\AN3\PG\LABS\OpenGLproject4\x64\Debug\OpenGLproject4.exe
+H:\Poli\AN3\PG\LABS\OpenGLproject4_proba\x64\Debug\OpenGLproject4.exe
+H:\Poli\AN3\PG\PROJECT\project_v1\x64\Debug\OpenGLproject4.exe
+H:\Poli\AN3\PG\PROJECT\project_v2\x64\Debug\OpenGLproject4.exe
+H:\Poli\AN3\PG\PROJECT\project_v2 - Copy\x64\Debug\OpenGLproject4.exe
+H:\Poli\AN3\PG\PROJECT\project_v2 - Copy - Copy\x64\Debug\OpenGLproject4.exe
+H:\Poli\AN3\PG\PROJECT\project_v3\x64\Debug\OpenGLproject4.exe
+H:\Poli\AN3\PG\PROJECT\project_v3 - Copy\x64\Debug\OpenGLproject4.exe
+C:\Users\maria\Desktop\poliTrash\pg\proj\project_v3 - Copy\x64\Debug\OpenGLproject4.exe
+H:\Poli\AN3\PG\PROJECT\project_v4\x64\Debug\OpenGLproject4.exe
+H:\Poli\AN3\PG\PROJECT\FINAL\project_v4\x64\Debug\OpenGLproject4.exe
+H:\Poli\AN3\PG\PROJECT\FINAL\project_v4 - Copy\x64\Debug\OpenGLproject4.exe
+H:\Poli\AN3\PG\PROJECT\TOSEND\project_v4 - Copy\x64\Debug\OpenGLproject4.exe
+H:\Poli\AN3\PG\PROJECT\TOSEND\project_v4 - Copy - Copy\x64\Debug\OpenGLproject4.exe

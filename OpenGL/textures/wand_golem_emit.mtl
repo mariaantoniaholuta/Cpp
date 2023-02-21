@@ -1,0 +1,13 @@
+# Blender 3.3.1 MTL File: 'fourth_scene.blend'
+# www.blender.org
+
+newmtl Material.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Wand_Emit.png
+map_Ns Wand_Roughness.png
+map_Ke Wand_Diffuse.png
+map_Bump -bm 1.000000 Wand_Normal.png

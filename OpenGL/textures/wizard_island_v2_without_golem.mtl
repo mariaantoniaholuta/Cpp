@@ -1,0 +1,255 @@
+# Blender 3.3.1 MTL File: 'fifth_scene.blend'
+# www.blender.org
+
+newmtl 02_-_Default.002
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd crystal.png
+map_refl C:/Map #3
+map_Bump -bm 0.080000 C:/Map #2
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grass4.png
+
+newmtl Material.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Wand_Emit.png
+map_Ns Wand_Roughness.png
+map_Ke Wand_Diffuse.png
+map_Bump -bm 1.000000 Wand_Normal.png
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd tower/Tower_plaster_color.jpg
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grass.jpg
+
+newmtl Material.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd dirt.jpg
+
+newmtl Material.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd crystal_red.png
+
+newmtl Material.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd crystal.png
+
+newmtl Material.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stars_dark.png
+
+newmtl Material.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd crystal_red.png
+
+newmtl None.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd GolemTexture.png
+
+newmtl None.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd GolemTexture.png
+
+newmtl None.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd GolemTexture.png
+
+newmtl None.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd GolemTexture.png
+
+newmtl STONE
+Ka 1.000000 1.000000 1.000000
+Ks 0.259091 0.259091 0.259091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd diffuso.png
+map_Ns rough.png
+map_Bump normal.png
+
+newmtl STONE.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.259091 0.259091 0.259091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd diffuso.png
+map_Ns rough.png
+map_Bump normal.png
+
+newmtl STONE.008
+Ka 1.000000 1.000000 1.000000
+Ks 0.259091 0.259091 0.259091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd diffuso.png
+map_Ns rough.png
+map_Bump normal.png
+
+newmtl STONE.011
+Ka 1.000000 1.000000 1.000000
+Ks 0.259091 0.259091 0.259091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd diffuso.png
+map_Ns rough.png
+map_Bump normal.png
+
+newmtl STONE.012
+Ka 1.000000 1.000000 1.000000
+Ks 0.259091 0.259091 0.259091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd diffuso.png
+map_Ns rough.png
+map_Bump normal.png
+
+newmtl STONE.020
+Ka 1.000000 1.000000 1.000000
+Ks 0.259091 0.259091 0.259091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd diffuso.png
+map_Ns rough.png
+map_Bump normal.png
+
+newmtl STONE.021
+Ka 1.000000 1.000000 1.000000
+Ks 0.259091 0.259091 0.259091
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd diffuso.png
+map_Ns rough.png
+map_Bump normal.png
+
+newmtl well_lower_texture
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd well_lower_diffuse.png
+map_Bump -bm 1.000000 well_lower_normal.png
+
+newmtl well_middle_texture
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd well_middle_diffuse.png
+map_Bump -bm 1.000000 well_middle_normal.png
+
+newmtl well_roof_texture
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd well_roof_diffuse.png
+map_Bump -bm 1.000000 well_roof_normal.png
